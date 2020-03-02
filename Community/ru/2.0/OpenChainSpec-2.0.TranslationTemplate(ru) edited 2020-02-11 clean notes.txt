@@ -1,0 +1,7 @@
+The translator's note:
+
+1. As of the date of this specification translation, the Open Compliance Directory program is available at: https://compliance.linuxfoundation.org/references/open-compliance-directory/ 
+2. "Open Source component" means software, another intellectual property or other information that is distributed openly (for example, as a source code).
+3. "Contribution" means software, another intellectual property or other information (for example, a patch, fix, error correction, translated piece of a text, etc.) that can be included in a source code at the initiative of the corresponding person (the"contributor"), who, as a rule, is its author (copyright holder).
+
+The translation is done: © Denis Doroshenko, 2020 (https://dorotenko.pro). CC-BY-4.0.
