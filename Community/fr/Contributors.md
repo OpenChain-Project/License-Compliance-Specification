@@ -1,5 +1,7 @@
+- Tristan FAURE
 - Bruno GRASSET
 - Benjamin JEAN
 - Laurent JOUBERT
+- Lionel LOUBET
 - Camille MOULIN
 - Harmonie VO VIET ANH
