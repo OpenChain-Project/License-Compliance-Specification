@@ -2,7 +2,7 @@
 name: Spec Update
 about: Spec Update suggestions
 title: "[Spec update]"
-labels: enhancement
+labels: Spec Update Request
 assignees: ''
 
 ---
