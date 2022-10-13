@@ -12,3 +12,5 @@ assignees: ''
 
 ## Suggested Content Changes
 {Outline content to be changed}
+
+## Additional comments
