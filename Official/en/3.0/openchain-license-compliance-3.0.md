@@ -1,12 +1,8 @@
-## OpenChain Specification
+## OpenChain Specification - DRAFT
 
-## Version 2.1
+## Version 3.0
 
-This Specification is functionally identical to:
-- OpenChain Specification 2.0
-- ISO/IEC 5230:2020
-
-Learn More: [htttps://www.openchainproject.org](htttps://www.openchainproject.org)
+This Specification is designed to provide an interation to ISO/IEC 5230:2020. It is currently a draft and is not ready for deployment.
 
 ## Contents
 
