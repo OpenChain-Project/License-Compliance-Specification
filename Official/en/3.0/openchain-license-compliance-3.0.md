@@ -1,4 +1,4 @@
-## OpenChain Specification - DRAFT
+## OpenChain ISO/IEC 5230:2024 (proposed) - DRAFT
 
 ## Version 3.0
 
