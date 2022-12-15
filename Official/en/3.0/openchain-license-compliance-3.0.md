@@ -53,7 +53,7 @@ This specification is licensed under [Creative Commons Attribution License 4.0](
 
 ## 1 - Scope
 
-This document specifies the key requirements of a quality open source license compliance program in order to provide a benchmark that builds trust between organizations exchanging software solutions comprised of open source software.
+This document specifies the key requirements of a quality open source license compliance program in order to provide a benchmark that builds trust between organizations exchanging software solutions containing open source software.
 
 ## 2 - Terms and definitions
 
