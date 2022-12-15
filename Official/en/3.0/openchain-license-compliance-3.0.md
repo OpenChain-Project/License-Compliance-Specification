@@ -269,7 +269,7 @@ A process shall exist for creating the set of compliance artifacts for the suppl
 
 #### Rationale:
 
-To ensure reasonable commercial efforts have been instituted in the preparation of the compliance artifacts that accompany the supplied software, as required by the identified licenses.
+To ensure reasonable efforts have been instituted in the preparation of the compliance artifacts that accompany the supplied software, as required by the identified licenses.
 
 ## 3.5 - Understanding open source community engagements
 
