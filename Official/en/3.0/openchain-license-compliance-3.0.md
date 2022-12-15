@@ -93,7 +93,7 @@ the format standard created by the Linux Foundation's SPDX (Software Package Dat
 
 ## 2.8 - supplied software
 
-software that an organization distributes to third parties (e.g., other organizations or individuals)
+software that an organization distributes to third parties (e.g., other legal entities, other organizations or individuals)
 
 ## 2.9 - verification materials
 
