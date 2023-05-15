@@ -73,29 +73,29 @@ a set of open source software licenses identified as a result of following an ap
 
 a program that satisfies all the requirements of this document
 
-## 2.4 - open source
+### 2.4 - open source
 
 software subject to one or more licenses that meet the Open Source Definition published by the Open Source Initiative (see [opensource.org/osd](https://opensource.org/osd)) or the Free Software Definition published by the Free Software Foundation (see [gnu.org/philosophy/free-sw.html](https://www.gnu.org/philosophy/free-sw.html)) or similar license
 
-## 2.5 - program
+### 2.5 - program
 
 the set of policies, processes and personnel that comprise an organization's open source license compliance activities
 
-## 2.6 - program participants
+### 2.6 - program participants
 
 any organization employee or contractor that defines, contributes to or has responsibility for preparing supplied software
 
 Note: Depending on the organization, that may include (but is not limited to) software developers, release engineers, quality engineers, product marketing and product management.
 
-## 2.7 - SPDX
+### 2.7 - SPDX
 
 the format standard created by the Linux Foundation's SPDX (Software Package Data Exchange) Working Group for exchanging bill of materials for a given software package, including associated license and copyright information (see [spdx.org](https://spdx.org/))
 
-## 2.8 - supplied software
+### 2.8 - supplied software
 
 software that an organization distributes to third parties (e.g., other legal entities, other organizations or individuals)
 
-## 2.9 - verification materials
+### 2.9 - verification materials
 
 materials that demonstrate that a given requirement of the specification is satisfied
 
