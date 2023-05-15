@@ -2,7 +2,7 @@
 
 ## Version 3.0
 
-This Specification is designed to provide an interation to ISO/IEC 5230:2020. It is currently a draft and is not ready for deployment.
+This Specification is designed to provide an iteration to ISO/IEC 5230:2020. It is currently a draft and is not ready for deployment.
 
 ## Contents
 
