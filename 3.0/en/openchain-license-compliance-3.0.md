@@ -57,7 +57,7 @@ This document specifies the key requirements of a quality open source license co
 
 ## 2 - Terms and definitions
 
-For the purposes of this document, the following terms and definitions apply.
+For the purposes of this document, the following terms and definitions apply. These terms and definitions only apply to this specific version of the specification.
 
 ### 2.1 - compliance artifacts
 
