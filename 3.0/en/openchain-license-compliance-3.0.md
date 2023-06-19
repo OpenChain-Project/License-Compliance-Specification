@@ -87,9 +87,9 @@ any organization employee or contractor that defines, contributes to or has resp
 
 Note: Depending on the organization, that may include (but is not limited to) software developers, release engineers, quality engineers, product marketing and product management.
 
-## 2.7 - SPDX
+## 2.7 - software bill of materials (SBOM)
 
-the format standard created by the Linux Foundation's SPDX (Software Package Data Exchange) Working Group for exchanging bill of materials for a given software package, including associated license and copyright information (see [spdx.org](https://spdx.org/))
+a “Software Bill of Materials” (SBOM) is a complete inventory for software, a list of ingredients that make up software components. An example is the specification created by the Linux Foundation's SPDX (Software Package Data Exchange) Working Group for exchanging bill of materials for a given software package, including associated license and copyright information (see spdx.org).
 
 ## 2.8 - supplied software
 
