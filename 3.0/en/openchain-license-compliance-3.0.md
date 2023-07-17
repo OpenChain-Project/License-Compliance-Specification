@@ -125,7 +125,7 @@ Note: Depending on the organization, that may include (but is not limited to) so
 
 ## 2.7 - software bill of materials (SBOM)
 
-a “Software Bill of Materials” (SBOM) is a complete inventory for software, a list of ingredients that make up software components. An example is the specification created by the Linux Foundation's SPDX (Software Package Data Exchange) Working Group for exchanging bill of materials for a given software package, including associated license and copyright information (see spdx.org).
+a “Software Bill of Materials” (SBOM) is a inventory for software, a list of ingredients that make up software components. An example is the (Software Package Data Exchange) SPDX specification created by the Linux Foundation's SPDX Project to exchange bill of materials for a given software package (see spdx.org). Regardless of the SBOM specification used, it should follow a complete profile for the intended use case.
 
 ## 2.8 - supplied software
 
