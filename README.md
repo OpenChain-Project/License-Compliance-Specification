@@ -15,3 +15,6 @@ This specification is licensed under Creative Commons Attribution License 4.0 (C
 ## Translations
 
 Reference translations of this specification can be submitted via opening a new issue. Reference translations are licensed under Creative Commons Attribution License 4.0 (CC-BY-4.0). Please make sure to include the names of the people who assisted in the translation to ensure proper attribution.
+
+Translations will be reviewed according to the guidelines in the OpenChain Project FAQ:
+https://www.openchainproject.org/resources/faq#specification-translation-questions
