@@ -115,7 +115,7 @@ software subject to one or more licenses that meet the Open Source Definition pu
 
 ## 2.5 - program
 
-the set of policies, processes and personnel that comprise an organization's open source license compliance activities
+the set of policies, processes and personnel that comprise an organization's open source license compliance activities in relation to the Program Scope (3.1.4).
 
 ## 2.6 - program participants
 
