@@ -151,7 +151,7 @@ A written open source policy shall exist that governs open source license compli
 
 #### Verification material(s):
 
-- 3.1.1.1 - A documented open source policy.
+- 3.1.1.1 - A documented Open Source policy that reflects the scope, objectives, and limits of the Program.
 - 3.1.1.2 - A documented procedure that makes program participants aware of the existence of the open source policy (e.g., via training, internal wiki, or other practical communication method).
 
 #### Rationale:
@@ -201,7 +201,7 @@ Different programs may be governed by different levels of scope. For example, a 
 
 #### Verification material(s):
 
-- 3.1.4.1 - A written statement that clearly defines the scope and limits of the program.
+- 3.1.4.1 - A written statement that clearly defines the scope, objectives and limits of the program.
 
 #### Rationale:
 
