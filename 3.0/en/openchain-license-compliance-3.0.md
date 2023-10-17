@@ -345,11 +345,11 @@ To ensure that if an organization declares that it has a program that is OpenCha
 
 ### 3.6.2 - Duration
 
-A program that is OpenChain conformant with this version of the specification shall last 18 months from the date conformance validation was obtained. The conformance validation registration procedure can be found on the OpenChain project's website.
+A program that is OpenChain conformant with this version of the specification shall last 18 months from the date conformance validation was obtained.
 
 #### Verification material(s):
 
-- 3.6.2.1 - A document affirming the program meets all the requirements of this document, within the past 18 months of obtaining conformance validation.
+- 3.6.2.1 - A document affirming the program meets all the requirements of this specification, within the past 18 months of obtaining conformance validation.
 
 #### Rationale:
 
