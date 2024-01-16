@@ -115,7 +115,7 @@ software subject to one or more licenses that meet the Open Source Definition pu
 
 ## 2.5 - program
 
-the set of policies, processes and personnel that comprise an organization's open source license compliance activities in relation to the Program Scope (3.1.4).
+the set of policies, processes and personnel that comprise an organization's open source license compliance activities
 
 ## 2.6 - program participants
 
@@ -151,7 +151,7 @@ A written open source policy shall exist that governs open source license compli
 
 #### Verification material(s):
 
-- 3.1.1.1 - A documented Open Source policy that reflects the scope, objectives, and limits of the Program.
+- 3.1.1.1 - A documented open source policy.
 - 3.1.1.2 - A documented procedure that makes program participants aware of the existence of the open source policy (e.g., via training, internal wiki, or other practical communication method).
 
 #### Rationale:
@@ -201,7 +201,7 @@ Different programs may be governed by different levels of scope. For example, a 
 
 #### Verification material(s):
 
-- 3.1.4.1 - A written statement that clearly defines the scope, objectives and limits of the program.
+- 3.1.4.1 - A written statement that clearly defines the scope and limits of the program.
 
 #### Rationale:
 
@@ -345,11 +345,12 @@ To ensure that if an organization declares that it has a program that is OpenCha
 
 ### 3.6.2 - Duration
 
-A program that is OpenChain conformant with this version of the specification shall last 18 months from the date conformance validation was obtained.
+A Program that is conformant with this version of the specification will have a review period every 12 months.
 
 #### Verification material(s):
 
-- 3.6.2.1 - A document affirming the program meets all the requirements of this specification, within the past 18 months of obtaining conformance validation.
+- 3.6.2.1 - A document affirming the Program meets all the requirements of this specification, within the past 12 months of obtaining conformance validation.
+
 
 #### Rationale:
 
