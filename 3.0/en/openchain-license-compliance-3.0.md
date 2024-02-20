@@ -15,19 +15,19 @@ This Specification is designed to provide an iteration to ISO/IEC 5230:2020. It 
 ### 3 - Requirements
 
 - 3.1 - Program foundation
-- - 3.1.1 - Policy
-- - 3.1.2 - Competence
-- - 3.1.3 - Awareness
 - - 3.1.4 - Program scope
-- - 3.1.5 - License obligations
+- - 3.1.1 - Policy
+- - 3.1.3 - Awareness
 
 - 3.2 - Relevant tasks defined and supported
 - - 3.2.1 - Access
-- - 3.2.2 - Effectively 
+- - 3.2.2 - Competence
+- - 3.2.3 - Effectively 
 
 - 3.3 - Open source content review and approval
 - - 3.3.1 - Bill of materials
-- - 3.3.2 - License compliance
+- - 3.3.2 - License obligations
+- - 3.3.3 - License compliance
 
 - 3.4 - Compliance artifact creation and delivery
 - - 3.4.1 - Compliance artifacts
@@ -145,38 +145,32 @@ ISO and IEC maintain terminological databases for use in standardization at the 
 
 ## 3.1 - Program foundation
 
-### 3.1.1 - Policy
+### 3.1.1 - Program scope
 
-A written open source policy shall exist that governs open source license compliance of the supplied software. The policy shall be internally communicated.
+Different programs may be governed by different levels of scope. For example, a program could govern a single product line, an entire department or an entire organization. The scope designation needs to be declared for each program.
 
 #### Verification material(s):
 
-- 3.1.1.1 - A documented open source policy.
-- 3.1.1.2 - A documented procedure that makes program participants aware of the existence of the open source policy (e.g., via training, internal wiki, or other practical communication method).
+- 3.1.1.1 - A written statement that clearly defines the scope and limits of the program.
+
+#### Rationale:
+
+To provide the flexibility to construct a program that best fits the scope of an organization's needs. Some organizations could choose to maintain a program for a specific product line while others could implement a program to govern the supplied software of the entire organization.
+
+### 3.1.2 - Policy
+
+A written open source policy shall exist that governs open source license compliance of the supplied software. The policy shall be internally communicated.
+
+[ADDITIONAL WORK NEED FOR A SUGGESTED placeholder addition to 3.1.2 for *legal* obligations - including legislation - to potentially be scoped, addressing a concern that senior management may need that at a product level, above the mechanism for license obligation per se, which *are* defined in 3.3.2. This may also be an opportunity to add other "A policy may include ...  [reference to legislation] ... etc. " bullet points to help guide but not require people on the policy front]
+
+#### Verification material(s):
+
+- 3.1.2.1 - A documented open source policy.
+- 3.1.2.2 - A documented procedure that makes program participants aware of the existence of the open source policy (e.g., via training, internal wiki, or other practical communication method).
 
 #### Rationale:
 
 To ensure steps are taken to create, record and make program participants aware of the existence of an open source policy. Although no requirements are provided here on what should be included in the policy, other sections may impose requirements on the policy.
-
-### 3.1.2 - Competence
-
-The organization shall
-
-- Identify the roles and the corresponding responsibilities of those roles that affects the performance and effectiveness of the program;
-- Determine the necessary competence of program participants fulfilling each role
-- Ensure that program participants are competent on the basis of appropriate education, training, and/or experience;
-- Where applicable, take actions to acquire the necessary competence; and
-- Retain appropriate documented information as evidence of competence.
-
-#### Verification material(s):
-
-- 3.1.2.1 - A documented list of roles with corresponding responsibilities for the different participants in the program.
-- 3.1.2.2 - A document that identifies the competencies for each role.
-- 3.1.2.3 - Documented evidence of assessed competence for each program participant.
-
-#### Rationale:
-
-Ensure that the program participants have obtained a sufficient level of competence for their respective roles and responsibilities.
 
 ### 3.1.3 - Awareness
 
@@ -195,30 +189,6 @@ The organization shall ensure that the program participants are aware of:
 
 To ensure the program participants have obtained a sufficient level of awareness for their respective roles and responsibilities within the program.
 
-### 3.1.4 - Program scope
-
-Different programs may be governed by different levels of scope. For example, a program could govern a single product line, an entire department or an entire organization. The scope designation needs to be declared for each program.
-
-#### Verification material(s):
-
-- 3.1.4.1 - A written statement that clearly defines the scope and limits of the program.
-
-#### Rationale:
-
-To provide the flexibility to construct a program that best fits the scope of an organization's needs. Some organizations could choose to maintain a program for a specific product line while others could implement a program to govern the supplied software of the entire organization.
-
-### 3.1.5 - License obligations
-
-A process shall exist for reviewing the identified licenses to determine the obligations, restrictions and rights granted by each license.
-
-#### Verification material(s):
-
-- 3.1.5.1 - A documented procedure to review and document the obligations, restrictions and rights granted by each identified license.
-
-#### Rationale:
-
-To ensure a process exists for reviewing and identifying the license obligations for each identified license for the various use cases an organization may encounter (as defined in §3.3.2).
-
 ## 3.2 - Relevant tasks defined and supported
 
 ### 3.2.1 - Access
@@ -234,7 +204,27 @@ Maintain a process to effectively respond to external open source inquiries. Pub
 
 To ensure there is a reasonable way for third parties to contact the organization with regard to open source compliance inquiries and that the organization is prepared to effectively respond.
 
-### 3.2.2 - Effectively resourced
+### 3.2.2 - Competence
+
+The organization shall
+
+- Identify the roles and the corresponding responsibilities of those roles that affects the performance and effectiveness of the program;
+- Determine the necessary competence of program participants fulfilling each role
+- Ensure that program participants are competent on the basis of appropriate education, training, and/or experience;
+- Where applicable, take actions to acquire the necessary competence; and
+- Retain appropriate documented information as evidence of competence.
+
+#### Verification material(s):
+
+- 3.2.2.1 - A documented list of roles with corresponding responsibilities for the different participants in the program.
+- 3.2.2.2 - A document that identifies the competencies for each role.
+- 3.2.2.3 - Documented evidence of assessed competence for each program participant.
+
+#### Rationale:
+
+Ensure that the program participants have obtained a sufficient level of competence for their respective roles and responsibilities.
+
+### 3.2.3 - Effectively resourced
 
 Identify and Resource Program Task(s):
 
@@ -248,11 +238,11 @@ Identify and Resource Program Task(s):
 
 #### Verification material(s):
 
-- 3.2.2.1 - Document with name of persons, group or function in program role(s) identified.
-- 3.2.2.2 - The identified program roles have been properly staffed and adequate funding provided.
-- 3.2.2.3 - Identification of legal expertise available to address open source license compliance matters which could be internal or external.
-- 3.2.2.4 - A documented procedure that assigns internal responsibilities for open source compliance.
-- 3.2.2.5 - A documented procedure for handling the review and remediation of non-compliant cases.
+- 3.2.3.1 - Document with name of persons, group or function in program role(s) identified.
+- 3.2.3.2 - The identified program roles have been properly staffed and adequate funding provided.
+- 3.2.3.3 - Identification of legal expertise available to address open source license compliance matters which could be internal or external.
+- 3.2.3.4 - A documented procedure that assigns internal responsibilities for open source compliance.
+- 3.2.3.5 - A documented procedure for handling the review and remediation of non-compliant cases.
 
 #### Rationale:
 
@@ -273,7 +263,19 @@ A process shall exist for creating and managing a bill of materials that include
 
 To ensure a process exists for creating and managing an open source component bill of materials used to construct the supplied software. A bill of materials is needed to support the systematic review and approval of each component's license terms to understand the obligations and restrictions as it applies to the distribution of the supplied software.
 
-### 3.3.2 - License compliance
+### 3.3.2 - License obligations
+
+A process shall exist for reviewing the identified licenses to determine the obligations, restrictions and rights granted by each license.
+
+#### Verification material(s):
+
+- 3.3.2.1 - A documented procedure to review and document the obligations, restrictions and rights granted by each identified license.
+
+#### Rationale:
+
+To ensure a process exists for reviewing and identifying the license obligations for each identified license for the various use cases an organization may encounter (as defined in §3.3.3).
+
+### 3.3.3 - License compliance
 
 The program shall be capable of managing common open source license use cases encountered by program participants for supplied software, which may include the following use cases (note that the list is neither exhaustive, nor might all of the use cases apply):
 
@@ -286,7 +288,7 @@ The program shall be capable of managing common open source license use cases en
 
 #### Verification material(s):
 
-- 3.3.2.1 - A documented procedure for handling the common open source license use cases for the open source components of the supplied software.
+- 3.3.3.1 - A documented procedure for handling the common open source license use cases for the open source components of the supplied software.
 
 #### Rationale:
 
