@@ -41,7 +41,7 @@ This Specification is designed to provide an iteration to ISO/IEC 5230:2020. It 
 
 # Introduction
 
-This document defines the key requirements of a quality open source license compliance program. The objective is to provide a benchmark that builds trust between organizations exchanging software solutions comprised of open source software. Specification conformance provides assurance that a program has been designed to produce the required compliance artifacts (i.e., legal notices, source code and so forth) for each software solution. This document focuses on the "what" and "why" aspects of a program rather than the "how" and "when". This ensures flexibility for different organizations of different sizes in different markets to choose specific policy and process content that fits their size, goals and scope. For instance, an OpenChain conformant program may address a single product line or the entire organization.
+This document defines the key requirements of a quality open source license compliance program. The objective is to provide a benchmark that builds trust between organizations exchanging software solutions may contain of open source software. Specification conformance provides assurance that a program has been designed to produce the required compliance artifacts (i.e., legal notices, source code and so forth) for each software solution. This document focuses on the "what" and "why" aspects of a program rather than the "how" and "when". This ensures flexibility for different organizations of different sizes in different markets to choose specific policy and process content that fits their size, goals and scope. For instance, an OpenChain conformant program may address a single product line or the entire organization.
 
 This introduction provides the context for all potential users. Clause 2 defines key terms used throughout this document. Clause 3 defines the requirements that a program must satisfy to achieve conformance. A requirement consists of one or more verification materials (i.e., records) that must be produced to satisfy the requirement. Verification materials are not required to be made public, though an organization may choose to provide them to others, potentially under a Non-Disclosure Agreement (NDA).
 
@@ -103,7 +103,7 @@ Note: The collection may include (but is not limited to) one or more of the foll
 
 ### 2.2 - identified licenses
 
-a set of open source software licenses identified as a result of following an appropriate method of identifying open source components from which the supplied software is comprised
+a set of open source software licenses identified as a result of following an appropriate method of identifying open source components from which the supplied software is may contain
 
 ### 2.3 - OpenChain conformant
 
@@ -252,11 +252,11 @@ To ensure: i) program responsibilities are effectively supported and resourced a
 
 ### 3.3.1 - Bill of materials
 
-A process shall exist for creating and managing a bill of materials that includes each open source component (and its identified licenses) from which the supplied software is comprised.
+A process shall exist for creating and managing a bill of materials that includes each open source component (and its identified licenses) from which the supplied software is may contain.
 
 #### Verification material(s):
 
-- 3.3.1.1 - A documented procedure for identifying, tracking, reviewing, approving, and archiving information about the collection of open source components from which the supplied software is comprised.
+- 3.3.1.1 - A documented procedure for identifying, tracking, reviewing, approving, and archiving information about the collection of open source components from which the supplied software is may contain.
 - 3.3.1.2 - Open source component records for the supplied software that demonstrates the documented procedure was properly followed.
 
 #### Rationale:
