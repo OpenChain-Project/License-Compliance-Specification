@@ -161,12 +161,10 @@ To provide the flexibility to construct a program that best fits the scope of an
 
 A written open source policy shall exist that governs open source license compliance of the supplied software. The policy shall be internally communicated.
 
-[ADDITIONAL WORK NEED FOR A SUGGESTED placeholder addition to 3.1.2 for *legal* obligations - including legislation - to potentially be scoped, addressing a concern that senior management may need that at a product level, above the mechanism for license obligation per se, which *are* defined in 3.3.2. This may also be an opportunity to add other "A policy may include ...  [reference to legislation] ... etc. " bullet points to help guide but not require people on the policy front]
-
 #### Verification material(s):
 
 - 3.1.2.1 - A documented open source policy.
-- 3.1.2.2 - A documented procedure that makes program participants aware of the existence of the open source policy (e.g., via training, internal wiki, or other practical communication method).
+- 3.1.2.2 - A documented procedure that makes program participants aware of the existence of the open source policy (e.g., via training or other practical communication method).
 
 #### Rationale:
 
@@ -183,7 +181,8 @@ The organization shall ensure that the program participants are aware of:
 
 #### Verification material(s):
 
-- 3.1.3.1 - Documented evidence of assessed awareness for the program participants - which should include the program's objectives, one's contribution within the program, and implications of program non-conformance.
+- 3.1.3.1 - Documented evidence of training or education material for program participants which should include the open source policy, Program objectives, contribution within the Program, and implications of Program non-conformance.
+- 3.1.3.2 - Documented evidence of assessed awareness for the program participants which should include the open source policy, Program objectives, contribution within the Program, and implications of Program non-conformance.
 
 #### Rationale:
 
