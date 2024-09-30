@@ -103,7 +103,7 @@ Note: The collection may include (but is not limited to) one or more of the foll
 
 ### 2.2 - identified licenses
 
-a set of open source software licenses identified as a result of following an appropriate method of identifying open source components from which the supplied software is may contain
+a set of open source software licenses identified as a result of following an appropriate method of examining open source components which the supplied software may contain
 
 ### 2.3 - OpenChain conformant
 
@@ -125,7 +125,7 @@ Note: Depending on the organization, that may include (but is not limited to) so
 
 ## 2.7 - software bill of materials (SBOM)
 
-a “Software Bill of Materials” (SBOM) is a inventory for software, a list of ingredients that make up software components. An example is the (Software Package Data Exchange) SPDX specification created by the Linux Foundation's SPDX Project to exchange bill of materials for a given software package (see spdx.org). Regardless of the SBOM specification used, it should follow a complete profile for the intended use case.
+a “Software Bill of Materials” (SBOM) is a inventory for software, a list of ingredients that make up software components. An example is the Software Package Data Exchange (SPDX) specification created by the Linux Foundation's SPDX Project to exchange bill of materials for a given software package (see spdx.org). Regardless of the SBOM specification used, it should follow a complete profile for the intended use case.
 
 ## 2.8 - supplied software
 
