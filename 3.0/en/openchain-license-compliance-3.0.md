@@ -109,29 +109,29 @@ a set of open source software licenses identified as a result of following an ap
 
 a program that satisfies all the requirements of this document
 
-## 2.4 - open source
+### 2.4 - open source
 
 software subject to one or more licenses that meet the Open Source Definition published by the Open Source Initiative (see [opensource.org/osd](https://opensource.org/osd)) or the Free Software Definition published by the Free Software Foundation (see [gnu.org/philosophy/free-sw.html](https://www.gnu.org/philosophy/free-sw.html)) or similar license
 
-## 2.5 - program
+### 2.5 - program
 
 the set of policies, processes and personnel that comprise an organization's open source license compliance activities
 
-## 2.6 - program participants
+### 2.6 - program participants
 
 any organization employee or contractor that defines, contributes to or has responsibility for preparing supplied software
 
 Note: Depending on the organization, that may include (but is not limited to) software developers, release engineers, quality engineers, product marketing and product management.
 
-## 2.7 - software bill of materials (SBOM)
+### 2.7 - software bill of materials (SBOM)
 
 a “Software Bill of Materials” (SBOM) is an inventory for software, a list of ingredients that make up software components. An example is the Software Package Data Exchange (SPDX) specification created by the Linux Foundation's SPDX Project to exchange bill of materials for a given software package (see spdx.org). Regardless of the SBOM specification used, it should follow a complete profile for the intended use case.
 
-## 2.8 - supplied software
+### 2.8 - supplied software
 
 software that an organization distributes to third parties (e.g., other legal entities, other organizations or individuals)
 
-## 2.9 - verification materials
+### 2.9 - verification materials
 
 materials that demonstrate that a given requirement of the specification is satisfied
 
