@@ -103,7 +103,7 @@ Note: The collection may include (but is not limited to) one or more of the foll
 
 ### 2.2 - identified licenses
 
-a set of open source software licenses identified as a result of following an appropriate method of identifying open source components which the supplied software may contain
+a set of open source software licenses identified as a result of following an appropriate method of examining open source components which the supplied software may contain
 
 ### 2.3 - OpenChain conformant
 
